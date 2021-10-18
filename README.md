@@ -1,1 +1,3 @@
-# FuckAuth
+# Good Practices
+
+## Auth
