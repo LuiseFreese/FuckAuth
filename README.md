@@ -26,3 +26,7 @@ can include hard topics like auth but also more soft topics like
   * naming conventions
   * try-catch
   * screenshots that show the important part
+* lessons learned in Enterprise Logic App dev
+* Code structure in SPFx projects
+* Working with KeyVault references, and why
+* Put your managed identity in ARM
