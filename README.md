@@ -31,3 +31,7 @@ can include hard topics like auth but also more soft topics like
 * don't solve problems that are not required to solve
 * do it right or not at all
 * 
+* lessons learned in Enterprise Logic App dev
+* Code structure in SPFx projects
+* Working with KeyVault references, and why
+* Put your managed identity in ARM
