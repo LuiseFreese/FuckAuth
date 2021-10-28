@@ -26,3 +26,8 @@ can include hard topics like auth but also more soft topics like
   * naming conventions
   * try-catch
   * screenshots that show the important part
+* shit in - shit out (If you pay peanuts, you get monkeys)
+* if you can't dream it, you can't build it (visualizing/mock up)
+* don't solve problems that are not required to solve
+* do it right or not at all
+* 
